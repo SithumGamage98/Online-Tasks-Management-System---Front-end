@@ -11,14 +11,8 @@ function App() {
     
   <Router>
     <div class="1">
-  
-  
-
     <Route path="/task" exact component={Task}></Route>
     <Route path="/task1" exact component={taskHome}></Route>
-   
-  
-    
   </div> 
 </Router> 
 
